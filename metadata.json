@@ -1,0 +1,6 @@
+{
+  "name": "지구의 자전과 천체의 일주 운동 3D 시뮬레이터",
+  "description": "중학교 1학년 과학 교과의 지구의 자전과 천체의 일주 운동을 우주 시점과 관측자 시점으로 실시간 비교하며 탐구하는 3D 시뮬레이터입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
