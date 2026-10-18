@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: './', // 👈 GitHub Pages 상대 경로 설정을 위해 추가되었습니다.
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
